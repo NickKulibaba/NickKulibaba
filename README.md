@@ -1,6 +1,8 @@
-![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-
 # О себе
+Привет, <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> меня зовут Николай, я занимаюсь аналитикой данных.
+Окончил несколько онлайн курсов, с помощью которых освоил Python, SQL, математическую статистику, теорию вероятности, продуктовую аналитику. 
+
+
   
     
       
