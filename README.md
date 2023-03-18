@@ -1,4 +1,4 @@
-Привет, <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> меня зовут Николай. Я занимаюсь аналитикой данных, продуктовой и BI аналитикой. В процессе обучения на Karpov Courses выполнены проекты по анализу данных, анализу поведения пользователей, оценке эффективности каналов их привлечения, RFM анализу,  А/В тестам и др. Эти проекты можно посмотреть в  [этом репозитории](https://github.com/NickKulibaba/Projects_on_karpov_coursers).
+Привет, <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> меня зовут Николай. Я занимаюсь аналитикой данных, продуктовой и BI аналитикой. В процессе обучения на Karpov Courses выполнены проекты по анализу данных, анализу поведения пользователей, оценке эффективности каналов их привлечения, RFM анализу,  А/В тестам и др. Эти проекты можно посмотреть в  [этом репозитории](https://github.com/NickKulibaba/Projects_on_karpov_coursers#readme).
   
     
       
